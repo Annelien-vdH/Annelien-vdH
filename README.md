@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annelien-vdH
-- 👀 I’m interested in Data analysis/ Data Engineering 
-- 🌱 I’m currently learning Python on Datacamp
+- 👀 I’m interested in Data analysis/ Data Engineering/ Machine Learning (with Pyhton) 
+- 🌱 I’m currently learning SQL and Python on Datacamp
 - 📫 How to reach me; https://www.linkedin.com/in/annelienvanderheide/
 
 <!---
